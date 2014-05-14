@@ -1,10 +1,14 @@
 {
     "name": "jjyy/pinyin",
     "description": "Chinese to pinyin",
+    "version": "1.0.0",
+    "keyword": ["pinyin"],
+    "license": "MIT",
     "authors": [
         {
             "name": "jjyy",
-            "email": "jjyy@outlook.com"
+            "email": "jjyy@outlook.com",
+            "homepage": "https://github.com/poem"
         }
     ],
     "require": {
