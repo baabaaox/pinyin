@@ -1,24 +1,29 @@
 {
     "name": "jjyy/pinyin",
     "description": "Chinese to pinyin",
-    "version": "1.0.0",
-    "keyword": ["pinyin"],
+    "version": "1.1.0",
+    "type": "library",
+    "keywords": [
+        "pinyin"
+    ],
+    "homepage": "https://github.com/poem",
+    "time": "2014-05-16 00:33:08",
     "license": "MIT",
     "authors": [
         {
             "name": "jjyy",
             "email": "jjyy@outlook.com",
-            "homepage": "https://github.com/poem"
+            "homepage": "http://jjyy.me",
+            "role": "Developer"
         }
     ],
+    "support": {
+        "email": "jjyy@outlook.com"
+    },
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.1.*"
     },
     "autoload": {
-        "classmap": [
-            "src/migrations"
-        ],
         "psr-0": {
             "Jjyy\\Pinyin\\": "src/"
         }

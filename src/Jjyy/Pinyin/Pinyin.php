@@ -3,7 +3,7 @@
  * @author Jjyy
  * @copyright (c) 2014, Jjyy
  * @link https://github.com/poem/pinyin
- * @version 1.0.0
+ * @version 1.1.0
  */
 namespace Jjyy\Pinyin;
 
